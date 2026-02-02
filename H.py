@@ -55,8 +55,8 @@ YOUR_USERNAME = os.environ.get('YOUR_USERNAME', '@ritikxyz099')
 UPDATE_CHANNEL = os.environ.get('UPDATE_CHANNEL', 'https://t.me/ritikxyzhost')
 
 # GROUP JOIN REQUIREMENT
-REQUIRED_GROUP_ID = "-1001234567890"  # अपना group ID यहाँ डालें
-GROUP_LINK = "https://t.me/your_group_username"  # अपना group link यहाँ डालें
+REQUIRED_GROUP_ID = "-1003831128265"  # अपना group ID यहाँ डालें
+GROUP_LINK = "https://t.me/ritikxyzhost"  # अपना group link यहाँ डालें
 
 # ENCRYPTION CONFIG
 ENCRYPTION_KEY = b"PYTHON_ENCODER_SECRET_KEY_2024"
